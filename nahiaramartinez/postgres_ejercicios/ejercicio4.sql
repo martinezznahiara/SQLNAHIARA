@@ -1,0 +1,3 @@
+DELETE FROM "post" WHERE "title" LIKE 'ANGIE';
+DELETE FROM "post" WHERE "title" LIKE 'RULO';
+DELETE FROM "post" WHERE "title" LIKE 'FACU';
